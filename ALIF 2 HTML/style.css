@@ -1,0 +1,123 @@
+body {
+    background-color: #faf9ff;
+    max-width: 1350px !important;
+    font-family: Poppins, Helvetica, sans-serif;
+  }
+  .kategori {
+    background-color: #d5d6c0;
+    padding: 15px;
+    display: grid;
+    grid-template-columns: 10% 65% 20%;
+  }
+  #alif {
+    font-weight: bold;
+  }
+  #kategori-list {
+    text-align: left;
+  }
+  #cart {
+    text-align: end;
+  }
+  main {
+    margin-left: 10%;
+  }
+  hr {
+    margin-left: -3%;
+    width: 400px;
+    border-color: black;
+  }
+  .Ready {
+    line-height: 15px;
+    gap: 100px;
+  }
+  .display {
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 10px;
+  }
+  .display2 {
+    line-height: 14px;
+  }
+  .Color {
+    word-wrap: break-word;
+    inline-size: 180px;
+    color: rgb43, 43, 196;
+  }
+  .Color2 {
+    line-height: 14px;
+  }
+  .Color3 {
+    word-wrap: break-word;
+    inline-size: 180px;
+    color: rgb43, 43, 196;
+  }
+  .Color4 {
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 10px;
+  }
+  .Color5 {
+    line-height: 14px;
+  }
+  .Color6 {
+    word-wrap: break-word;
+    inline-size: 180px;
+  }
+  .Color7 {
+    line-height: 14px;
+  }
+  aside {
+    float: right; margin-right: 10%; margin-top: -37%
+  }
+  #table1 {
+    background-color: #c47cd9; width: 300px; height: 278px
+  }
+  #table2 {
+    text-align: left
+  }
+#table3 {
+    line-height: 14px
+}
+#table4 {
+    text-align: right;
+}
+#makanan {
+    display: flex; gap: 10px; text-decoration: none; list-style: none; margin: 5px;
+}
+.submit{
+    margin-right: 10px
+}
+
+
+  .foto1 {
+    display: flex;
+    gap: 30px;
+  }
+  #NAMA {
+    text-align: left;
+  }
+  #lorem {
+    display: flex;
+    gap: 30px;
+    list-style: none;
+  }
+  #Categories {
+      display: flex;
+    text-align: right;
+  }
+  .footer {
+    display: flex;
+  }
+  #fieldset {
+    display: flex; margin-right: 80px; margin-left: 20px;
+  }
+  .images {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    gap: 10px;
+    margin: 5px;
+    
+  }
+  #fieldset2 {
+    display: flex; margin-right: 3000px; height: 100%;
+  }
